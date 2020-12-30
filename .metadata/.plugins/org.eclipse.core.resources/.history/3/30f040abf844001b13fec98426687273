@@ -1,0 +1,20 @@
+import javaiot.org.opentutorials.iot.Elevator;
+javaiot.org.opentutorials.iot.Elevator;
+
+public class okjava {
+
+	public static void main(String[] args) {
+		// Elevator call
+		Elevator myElevator = new Elevator("JAVA APT 507");
+		myElevator.callForUp(1)
+		
+		//Security off
+		
+		//Light on
+		
+		
+		
+
+	}
+
+}

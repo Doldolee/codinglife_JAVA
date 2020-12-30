@@ -1,0 +1,22 @@
+
+public class firstMethod {
+	public static void whymehod(String text, String delimiter) {
+			System.out.println(text);
+			//System.out.println(delimiter);
+		}
+	
+	public static String a() {
+		return "a";
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		whymehod("a","$");
+		System.out.println(a());
+
+	}
+	
+	
+
+}

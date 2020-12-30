@@ -1,0 +1,15 @@
+package javaFlowControl;
+
+public class BooleanApp {
+
+	public static void main(String[] args) {
+		
+		String[] array1 = {"egoing", "new" }
+		
+		
+		System.out.println(array1[1]);
+		
+
+	}
+
+}

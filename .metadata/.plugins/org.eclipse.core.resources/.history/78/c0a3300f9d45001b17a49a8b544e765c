@@ -1,0 +1,15 @@
+import javax.swing.JOptionPane;
+
+import javaiot.org.opentutorials.iot.Elevator;
+import javaiot.org.opentutorials.iot.Security;
+import javaiot.org.opentutorials.iot.Lighting;
+
+public class okjava {
+
+	public static void main(String[] args) {
+		
+		String id = JOptionPane.showInputDialog("Enter a ID");
+		// Elevator call
+		
+
+}

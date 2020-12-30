@@ -1,0 +1,13 @@
+
+public class firstMethod {
+public static void whymehod() {
+		System.out.println(123324);
+	}
+	public static void main(String[] args) {
+		whymehod();
+
+	}
+	
+	
+
+}

@@ -1,0 +1,15 @@
+1609137191664	Extract local variable 'vlaueOfSupply'
+1609137216013	Extract local variable 'vatRate'
+1609137352979	Extract local variable 'VAT'
+1609137380456	Extract local variable 'Total'
+1609137398245	Extract local variable 'expense'
+1609137407755	Extract local variable 'income'
+1609138389654	Copy file
+1609139323004	Copy file
+1609144050691	Extract method 'getVAT'
+1609144746892	Extract method 'getTotal'
+1609144829490	Extract method 'getExpense'
+1609144876595	Extract method 'getIncome'
+1609201939845	Copy file
+1609202987055	Rename resource 'AccountingMethodApp.class'
+1609203091917	Rename type 'AccountingMethodApp'

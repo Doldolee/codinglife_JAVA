@@ -1,0 +1,19 @@
+
+public class AccountingApp {
+
+	public static void main(String[] args) {
+		double vlaueOfSupply = 10000.0;
+		System.out.println("value of supply : "+vlaueOfSupply);
+		System.out.println("VAT:"+(vlaueOfSupply*0.1));
+		System.out.println("Total:"+(vlaueOfSupply + vlaueOfSupply*0.1));
+		System.out.println("Expense:"+(vlaueOfSupply*0.3));
+		System.out.println("Income:"+(vlaueOfSupply - vlaueOfSupply*0.3));
+		System.out.println("Devidend1:"+(vlaueOfSupply - vlaueOfSupply*0.3) * 0.5);
+		System.out.println("Devidend2:"+(vlaueOfSupply - vlaueOfSupply*0.3) * 0.3);
+		System.out.println("Devidend3:"+(vlaueOfSupply - vlaueOfSupply*0.3) * 0.2);
+		
+		
+
+	}
+
+}

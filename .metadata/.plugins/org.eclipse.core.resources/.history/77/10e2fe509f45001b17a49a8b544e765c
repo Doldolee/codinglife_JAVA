@@ -1,0 +1,15 @@
+import javax.swing.JOptionPane;
+
+
+public class okjava {
+
+	public static void main(String[] args) {
+		String a = args[0];
+		String id = args[1];
+		String b = args[2];
+		// Elevator call
+		System.out.println(a);
+		System.out.println(id);
+		System.out.println(b);
+	}
+}

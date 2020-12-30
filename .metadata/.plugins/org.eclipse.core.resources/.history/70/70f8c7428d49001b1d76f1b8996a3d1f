@@ -1,0 +1,20 @@
+package javaFlowControl;
+
+public class BooleanApp {
+
+	public static void main(String[] args) {
+	
+		
+		String id = "egoing";
+		String inputId = args[0];
+		
+		if(id.equals(inputId)) {
+			System.out.println(1);
+		}else {
+			System.out.println(2);
+		}
+		
+
+	}
+
+}

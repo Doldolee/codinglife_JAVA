@@ -1,0 +1,13 @@
+import javax.swing.JOptionPane;
+
+
+public class okjava {
+
+	public static void main(String[] args) {
+		String a = args[0];
+		String id = JOptionPane.showInputDialog("Enter a ID");
+		// Elevator call
+		System.out.println(id);
+		System.out.println(a);
+	}
+}

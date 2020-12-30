@@ -1,0 +1,14 @@
+
+/**
+ * @author IT_Room
+ *
+ */
+public class Number {
+
+	public static void main(String[] args) {
+		System.out.println("hello \"hi\"");
+		System.out.println(Math.ceil(Math.PI));
+
+	}
+
+}
